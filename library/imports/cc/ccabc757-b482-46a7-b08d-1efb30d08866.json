@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pinches",
+    "texture": "32994743-8df1-4396-a048-216b5ee92444",
+    "atlas": "",
+    "rect": [
+      0,
+      35,
+      70,
+      35
+    ],
+    "offset": [
+      0,
+      -17.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

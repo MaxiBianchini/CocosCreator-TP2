@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Medio",
+    "texture": "94dddd10-88e7-497d-8014-354df757f94f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      40
+    ],
+    "offset": [
+      0,
+      15
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Derecha",
+    "texture": "be5733d2-8287-46d7-a9a1-54f038b869f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      40
+    ],
+    "offset": [
+      0,
+      15
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

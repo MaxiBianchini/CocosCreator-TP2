@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BanderaFinal 1",
+    "texture": "d8cb395b-f8fe-49a3-910c-0349460294a0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      70
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
